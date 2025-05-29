@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sanchez4626@gmail.com**
 
-- ⚡ Fun fact **My hobbie is storm chassing.**
+- ⚡ Fun fact **my hobbie is storm chassing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
