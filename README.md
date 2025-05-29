@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alfonso</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfonso-sanchez&label=Profile%20views&color=0e75b6&style=flat" alt="alfonso-sanchez" /> </p>
 
-- 🔭 I’m currently working on [radarspain](https://www.radarspain.es/)
+- 🔭 I’m currently open to work!
+  
+- 💻 My personal project is [radarspain](https://www.radarspain.es/). 
 
 - 🌱 I’m currently learning **AI, AWS, Advanced Networks**
 
